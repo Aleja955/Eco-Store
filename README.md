@@ -6,7 +6,7 @@ Dicha portada está relizada con HTML, CSS y SASS.
 ## Tecnologías usadas
 - HTML
 - CSS
-- JSASS
+- SASS
 
 ## Características
 - Permite visualizar diferentes productos, brinda una imagen más amplia en una galeria de estilos.
